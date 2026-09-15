@@ -1,0 +1,16 @@
+Title;Author;# Stars
+A Court of Thorns and Roses;Sarah J. Maas;4.6
+Crescent City: House of Earth and Blood;Sarah J. Maas;4.8
+Daddy Issues;Kate Goldbeck;4.5
+Daisy Jones & The Six;Taylor Jenkins Reid;4.4
+Dune;Frank Herbert;3.6
+Forth Wing (The Empyrean Book 1);Rebecca Yarros;4.8
+Katabasis;R.F. Kuang;5
+Normal People;Sally Rooney;4.1
+People We Meet On Vacation;Emily Henry;4.3
+The Alchemist;Paulo Coelho;4.6
+The Midnight Library;Matt Haig;4.3
+The Priory of the Orange Tree (The Roots of Chaos);Samantha Shannon;4.5
+The Subtle Art of Not Giving a F*ck;Mark Manson;4.6
+The Way of Kings (The Stormlight Archive, Book 1);Brandon Sanderson;4.8
+Where the Crawdads Sing;Delia Owens;4.7
